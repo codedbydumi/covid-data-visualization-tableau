@@ -19,7 +19,7 @@ This project transforms raw COVID-19 data into compelling visual stories, reveal
 
 ## 🖼️ Dashboard Preview
 
-![COVID-19 Dashboard Overview](assets/images/Home.png)
+![COVID-19 Dashboard Overview](Assets/images/Home.png)
 
 ### 📈 Interactive Components
 1. **Time Series Chart** - Daily cases over time with pandemic wave detection
@@ -166,6 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaboration opportunities:
 - 📧 Email: duminduthushan9@gmail.com
 - 💬 Issues: [GitHub Issues](https://github.com/codedbydumi/covid19-global-analysis-dashboard/issues)
+  
 ---
 
 <div align="center">
