@@ -19,7 +19,7 @@ This project transforms raw COVID-19 data into compelling visual stories, reveal
 
 ## 🖼️ Dashboard Preview
 
-![COVID-19 Dashboard Overview](assets/images/dashboard_overview.png)
+![COVID-19 Dashboard Overview](Assets/Images/Home.png)
 
 ### 📈 Interactive Components
 1. **Time Series Chart** - Daily cases over time with pandemic wave detection
@@ -53,7 +53,7 @@ covid19-global-analysis-dashboard/
 ├── 📈 assets/             # Dashboard images and Tableau files
 ├── 💾 data/               # Raw and processed datasets
 ├── 🐍 src/                # Python source code
-└── 📚 docs/               # Documentation and reports
+└── 📚 docs/               # Documentation , presenattaion and reports
 ```
 
 ## 🛠️ Installation & Setup
@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dumindu Thushan**
 - GitHub: [@codedbydumi](https://github.com/codedbydumi)
-- LinkedIn: [Connect with me](https://linkedin.com/in/Dumindu_Thushan)
+- LinkedIn: [Connect with me](https://linkedin.com/in/dumindu-thushan)
 - Portfolio: [View my work](https://duminduthushan.com)
 
 ## 🙏 Acknowledgments
@@ -166,14 +166,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaboration opportunities:
 - 📧 Email: duminduthushan9@gmail.com
 - 💬 Issues: [GitHub Issues](https://github.com/codedbydumi/covid19-global-analysis-dashboard/issues)
--
-
+  
 ---
 
 <div align="center">
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-Made with ❤️ for data storytelling and public health insights
+Made with codedbydumi ❤️ for data storytelling and public health insights
 
 </div>
