@@ -19,7 +19,7 @@ This project transforms raw COVID-19 data into compelling visual stories, reveal
 
 ## 🖼️ Dashboard Preview
 
-![COVID-19 Dashboard Overview](Assets/images/Home.png)
+![COVID-19 Dashboard Overview](Assets/Images/Home.png)
 
 ### 📈 Interactive Components
 1. **Time Series Chart** - Daily cases over time with pandemic wave detection
