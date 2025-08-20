@@ -10,7 +10,7 @@ This document provides comprehensive definitions for all variables used in the C
 - **URL**: https://ourworldindata.org/covid-deaths
 - **License**: Creative Commons BY license
 - **Update Frequency**: Daily
-- **Last Accessed**: [Insert Date]
+
 
 ## Variable Definitions
 
